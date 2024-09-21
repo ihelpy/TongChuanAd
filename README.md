@@ -7,6 +7,11 @@
 Email: who@isyour.love にご連絡ください。
 https://tongchuan.isyour.love
 
+免费的同声传译，实时翻译软件工具。支持Windows PC，MacOs 13+
+它可以将电脑中的声音 或者您周围的声音 实时翻译为常见语言，例如中文 英语 日语 韩语 俄语 等等。
+只要有声音就能翻译，支持识别所有的APP
+您可以在此处免费下载软件的安装包，如果需要帮助 请联系Email：who@isyour.love
+http://tongchuan.isyour.love
 
 무료 동시통역, 실시간 번역 소프트웨어 도구. Windows PC와 MacOS 13+를 지원합니다.
 컴퓨터의 소리나 주변 소리를 실시간으로 번역하여, 중국어, 영어, 일본어, 한국어, 러시아어 등 일반적인 언어로 변환할 수 있습니다.
